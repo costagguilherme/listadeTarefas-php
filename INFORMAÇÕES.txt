@@ -1,0 +1,7 @@
+
+#ListaDeTarefas_external
+C:/xampp/ListaDeTarefas_external
+
+#ListaDeTarefas
+C:/xampp/htdocs/ListaDeTarefas
+
